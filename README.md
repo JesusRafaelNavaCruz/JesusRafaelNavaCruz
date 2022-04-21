@@ -1,4 +1,4 @@
-Hi 👋 My name is Jesus Nava
+Hola 👋 Mi nombre es Jesus Nava
 ===========================
 
 Front-end Developer
@@ -6,17 +6,17 @@ Front-end Developer
 
 ¡Hola!, Mi nombre es Jesus Rafael Nava Cruz Soy un apasionado Desarrollador Front-end que tiene como objetivo mejorar día con día para darte la mejor solución y calidad a tus proyectos; y poder así cumplir nuestros objetivos de la mano, siempre con la mejor disposición Comencé mi carrera en el 2019, cuando estaba cursando el ultimo año de mi universidad, creando proyectos de aplicaciones web con Struts2. Poco después, empecé a trabajar con aplicaciones web creadas con JavaScript con el framework de DojoJs. Desde entonces, me he empapado de conocimientos con nuevas tecnologías con VueJs. Y gracias a eso actualmente participo en la creación de un sistema para la unificación de información médica, de cual fui el creador del diseño.
 
-* 🌍  I'm based in Cuernavaca, Morelos, México
-* 🖥️  See my portfolio at [Portfolio](http://jesusrafaelnavacruz.vercel.app/)
-* ✉️  You can contact me at [jrnc9802@gmail,com](mailto:jrnc9802@gmail,com)
-* 🧠  I'm learning REACT JS
-* 🤝  I'm open to collaborating on Part-time projects
+* 🌍  Radico en Cuernavaca, Morelos, México
+* 🖥️  Mira mi portafolio [Portafolio](http://jesusrafaelnavacruz.vercel.app/)
+* ✉️  Puedes contactarme por mi correo [jrnc9802@gmail,com](mailto:jrnc9802@gmail,com)
+* 🧠  Estoy aprendiendo REACT JS
+* 🤝  Estooy abierto a colabaciones de mitad de tiempo 
 * ⚡  Programador web con más de dos años de experiencia en el desarrollo de aplicaciones y sitios web con HTML, CSS y JavaScript.
 
 <a href="https://www.twitch.tv/elrafinia" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/elrafinia?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
-### Skills
+### Habilidades
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -39,11 +39,11 @@ src="https://img.shields.io/twitch/status/elrafinia?logo=twitchsx&style=for-the-
 </p>
 
 
-### Socials
+### Sociales
 
 <p align="left"> <a href="https://www.github.com/JesusRafaelNavaCruz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/el.rafinia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jesus-rafael-nava-cruz-b08296201" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/el_rafinia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/elrafinia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
-### Badges
+### Insignias
 
 <b>My GitHub Stats</b>
 
@@ -51,6 +51,6 @@ src="https://img.shields.io/twitch/status/elrafinia?logo=twitchsx&style=for-the-
 
 <a href="https://github.com/JesusRafaelNavaCruz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusRafaelNavaCruz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
+### Ayudame
 
 <a href="https://www.buymeacoffee.com/jrnc9802F?new=1"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
