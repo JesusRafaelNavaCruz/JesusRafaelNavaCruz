@@ -12,6 +12,7 @@ Front-end Developer
 * 🧠  Estoy aprendiendo REACT JS
 * 🤝  Estooy abierto a colabaciones de mitad de tiempo 
 * ⚡  Programador web con más de dos años de experiencia en el desarrollo de aplicaciones y sitios web con HTML, CSS y JavaScript.
+* ⚡ UIVerse (https://uiverse.io/profile/JesusRafaelNavaCruz)
 
 <a href="https://www.twitch.tv/elrafinia" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/elrafinia?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
